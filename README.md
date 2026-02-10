@@ -1,12 +1,11 @@
 # port-scanner
 <h1 align="center">Hi 👋, I'm Kalees</h1>
-<h3 align="center">A passionate frontend developer in cybersecurity</h3>
+<h3 align="center">A passionate developer in cybersecurity</h3>
 
 - 🔭 I’m currently working on [a simple python portscanner](https://github.com/kalees-bytes/port-scanner)
 
 - 🌱 I’m currently learning **programing languages ,cyber security and forensic**
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
